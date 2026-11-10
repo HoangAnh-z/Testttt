@@ -22,4 +22,3 @@ ls -aR
 
 > KHÔNG UPLOAD FILE .env lên repository.
 
-djkahksd
