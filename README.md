@@ -21,3 +21,5 @@ ls -aR
 - [ ] Upload dự án lên GitHub
 
 > KHÔNG UPLOAD FILE .env lên repository.
+
+djkahksd
