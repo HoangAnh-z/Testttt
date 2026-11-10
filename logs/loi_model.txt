@@ -1,0 +1,6 @@
+2026-11-10 08:27:45 ERROR POST /v1/chat/completions model=CLAUDE-35
+2026-11-10 08:31:12 ERROR POST /v1/audio/transcriptions model=WHISPER-V3
+2026-11-10 08:42:15 ERROR POST /v1/chat/completions model=DEEPSEEK-R1
+2026-11-10 08:49:51 ERROR POST /v1/images/generations model=FLUX-PRO
+2026-11-10 08:53:33 ERROR POST /v1/chat/completions model=CLAUDE-35
+2026-11-10 09:05:27 ERROR POST /v1/embeddings model=MISTRAL-L

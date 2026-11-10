@@ -1,0 +1,7 @@
+===BAO CAO VAN HANH MODEL AI===
+2026-11-10 08:09:18 WARNING POST /v1/embeddings model=LLAMA-2-OLD
+2026-11-10 08:16:05 WARNING GET /v1/fine-tune/jobs-legacy
+2026-11-10 08:38:29 WARNING GET /images/model-card-v1.png
+2026-11-10 09:01:44 WARNING POST /v1/completions model=DAVINCI-002
+2026-11-10 09:14:02 WARNING GET /v1/quota/expired-key
+       6
